@@ -8,9 +8,8 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
-    Welcome LaNet Team...!!!!!
-    This is GitHub Demo...!!!!!
+    <div>    
+        <asp:Label ID="Label1" runat="server" Text="Welcome LaNet Team...!!!!! <br /> This is GitHub Demo...!!!!!"></asp:Label>
     </div>
     </form>
 </body>
